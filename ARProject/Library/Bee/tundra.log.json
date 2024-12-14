@@ -1868,21 +1868,3 @@
 {"msg":"nodeOutputsMissing","annotation":"ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput","index":1202,"files":["Library\\ilpp-configuration.nevergeneratedoutput"],"directories":[]}
 {"msg":"runNodeAction","annotation":"ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput","displayName":"ILPP-Configuration ilpp-configuration","index":1202}
 {"msg":"noderesult","processed_node_count":1375,"number_of_nodes_ever_queued":1866,"annotation":"ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput","index":1202,"exitcode":0,"outputfile":"Library\\ilpp-configuration.nevergeneratedoutput"}
-{"msg":"nodeRetryBuild","annotation":"CopyFiles Library/ScriptAssemblies/Unity.Mathematics.dll","index":1581}
-{"msg":"runNodeAction","annotation":"CopyFiles Library/ScriptAssemblies/Unity.Mathematics.dll","displayName":"Copying Unity.Mathematics.dll","index":1581}
-{"msg":"nodeRetryBuild","annotation":"CopyFiles Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll","index":1653}
-{"msg":"runNodeAction","annotation":"CopyFiles Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll","displayName":"Copying Unity.XR.ARSubsystems.dll","index":1653}
-{"msg":"nodeRetryBuild","annotation":"CopyFiles Library/ScriptAssemblies/Unity.InputSystem.dll","index":1575}
-{"msg":"runNodeAction","annotation":"CopyFiles Library/ScriptAssemblies/Unity.InputSystem.dll","displayName":"Copying Unity.InputSystem.dll","index":1575}
-{"msg":"nodeRetryBuild","annotation":"CopyFiles Library/ScriptAssemblies/UnityEngine.UI.dll","index":1539}
-{"msg":"runNodeAction","annotation":"CopyFiles Library/ScriptAssemblies/UnityEngine.UI.dll","displayName":"Copying UnityEngine.UI.dll","index":1539}
-{"msg":"nodeRetryBuild","annotation":"CopyFiles Library/ScriptAssemblies/Unity.XR.CoreUtils.dll","index":1655}
-{"msg":"runNodeAction","annotation":"CopyFiles Library/ScriptAssemblies/Unity.XR.CoreUtils.dll","displayName":"Copying Unity.XR.CoreUtils.dll","index":1655}
-{"msg":"nodeRetryBuild","annotation":"CopyFiles Library/ScriptAssemblies/UnityEditor.UI.dll","index":1541}
-{"msg":"runNodeAction","annotation":"CopyFiles Library/ScriptAssemblies/UnityEditor.UI.dll","displayName":"Copying UnityEditor.UI.dll","index":1541}
-{"msg":"noderesult","processed_node_count":1859,"number_of_nodes_ever_queued":1866,"annotation":"CopyFiles Library/ScriptAssemblies/Unity.XR.CoreUtils.dll","index":1655,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\Unity.XR.CoreUtils.dll"}
-{"msg":"noderesult","processed_node_count":1859,"number_of_nodes_ever_queued":1866,"annotation":"CopyFiles Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll","index":1653,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\Unity.XR.ARSubsystems.dll"}
-{"msg":"noderesult","processed_node_count":1861,"number_of_nodes_ever_queued":1866,"annotation":"CopyFiles Library/ScriptAssemblies/UnityEngine.UI.dll","index":1539,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\UnityEngine.UI.dll"}
-{"msg":"noderesult","processed_node_count":1862,"number_of_nodes_ever_queued":1866,"annotation":"CopyFiles Library/ScriptAssemblies/UnityEditor.UI.dll","index":1541,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\UnityEditor.UI.dll"}
-{"msg":"noderesult","processed_node_count":1863,"number_of_nodes_ever_queued":1866,"annotation":"CopyFiles Library/ScriptAssemblies/Unity.Mathematics.dll","index":1581,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\Unity.Mathematics.dll"}
-{"msg":"noderesult","processed_node_count":1864,"number_of_nodes_ever_queued":1866,"annotation":"CopyFiles Library/ScriptAssemblies/Unity.InputSystem.dll","index":1575,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\Unity.InputSystem.dll"}
